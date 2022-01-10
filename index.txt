@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -12,3 +13,8 @@
  nuevo cambio para verificar cambios 3
  nuevo cambio para verificar cambios 4
 <P>
+=======
+<p> ************ <P>
+<p> encabezado HEADER <P>
+<p> ************ <P>
+>>>>>>> ramaHeader

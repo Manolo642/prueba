@@ -1,6 +1,7 @@
 
 
-<p> encabezado HEADER <P>
+<H1> encabezado HEADER <H1>
+ TODOS ESTOS SON LOS CAMBIOS DEL HEADER
 
 
 

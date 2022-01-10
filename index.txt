@@ -16,5 +16,7 @@
 
 
 
-<p>Este es el Footer<p>
+<H1>Este es el Footer<H1>
+ TODO ESTO ES EL TEXTO DEL FOOTER
+	
 

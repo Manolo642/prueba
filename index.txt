@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+index cambio 1
+nuevo cambio
+nuevo cambio 1
+>>>>>>> ramaFooter
 
 
 
 
+<<<<<<< HEAD
 <H1> BODY DE LA RAMA MASTER <H1>
 
 <P>
@@ -18,3 +25,16 @@
 <p> encabezado HEADER <P>
 <p> ************ <P>
 >>>>>>> ramaHeader
+=======
+
+
+
+
+
+
+
+
+<p>********<p>
+<p>Este es el Footer<p>
+<p>********<p>
+>>>>>>> ramaFooter
